@@ -6,7 +6,7 @@ Fullstack ecommerce application
 
 ---
 
-#technologies
+# technologies
 
 - React
 - Redux
