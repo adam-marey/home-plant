@@ -14,6 +14,8 @@ Fullstack ecommerce application
 - Express
 - Node
 - MongoDb
+- styled components
+- material-ui
 
 ---
 
