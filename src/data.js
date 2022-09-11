@@ -25,12 +25,12 @@ export const sliderItems = [
 export const categories = [
   {
     id: 1,
-    img: 'https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    img: 'https://images.pexels.com/photos/2242471/pexels-photo-2242471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     title: 'FLOOR PLANT',
   },
   {
     id: 2,
-    img: 'https://images.pexels.com/photos/1302305/pexels-photo-1302305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    img: 'https://images.pexels.com/photos/584764/pexels-photo-584764.jpeg?auto=compress&cs=tinysrgb&w=600',
     title: 'DESK PLANT',
   },
   {
