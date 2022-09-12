@@ -5,6 +5,7 @@ import { Search, ShoppingCartOutlined } from '@mui/icons-material';
 
 const Container = styled.div`
   height: 60px;
+  background-color: #7f8487;
 `;
 
 const Wrapper = styled.div`
@@ -26,15 +27,19 @@ const Language = styled.span`
 `;
 
 const SearchContainer = styled.div`
-  border: 0.5px solid lightgray;
+  border: 0.5px solid black;
   display: flex;
   align-items: center;
   margin-left: 25px;
   padding: 5px;
+  background-color: #7f8487;
+  color: black;
 `;
 
 const Input = styled.input`
   border: none;
+  background-color: #7f8487;
+  color: black;
 `;
 
 const Center = styled.div`
@@ -65,8 +70,8 @@ const Navbar = () => {
         <Left>
           <Language>EN</Language>
           <SearchContainer>
-            <Input placeholder="Search" color="gray" />
-            <Search style={{ color: 'gray', fontSize: 16 }} />
+            <Input placeholder="Search" color="black" />
+            <Search style={{ color: 'black', fontSize: 16 }} />
           </SearchContainer>
         </Left>
         <Center>

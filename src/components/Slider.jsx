@@ -9,6 +9,7 @@ const Container = styled.div`
   display: flex;
   position: relative;
   overflow: hidden;
+  background-color: #cfd2cf;
 `;
 
 const Arrow = styled.div`
@@ -35,6 +36,7 @@ const Wrapper = styled.div`
   display: flex;
   transition: all 1.5s ease;
   transform: translateX(${(props) => props.slideIndex * -100}vw);
+  background-color: #cfd2cf;
 `;
 
 const Slide = styled.div`
@@ -42,12 +44,13 @@ const Slide = styled.div`
   height: 100vh;
   display: flex;
   align-items: center;
-  background-color: #${(props) => props.bg};
+  background-color: #cfd2cf;
 `;
 
 const ImgContainer = styled.div`
   height: 100%;
   flex: 1;
+  background-color: #cfd2cf;
 `;
 
 const Image = styled.img`
@@ -57,6 +60,7 @@ const Image = styled.img`
 const InfoContainer = styled.div`
   flex: 1;
   padding: 50px;
+  background-color: #cfd2cf;
 `;
 
 const Title = styled.h1`

@@ -29,7 +29,7 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #444444;
+  background-color: #cfd2cf;
   position: relative;
   &:hover ${Info} {
     opacity: 1;
