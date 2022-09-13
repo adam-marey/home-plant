@@ -27,3 +27,7 @@ Fullstack ecommerce application
 - Filter by categories - sort by data, color, size.
 - Modern shopping cart.
 - local storage
+
+---
+
+In working progress
