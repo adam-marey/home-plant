@@ -6,7 +6,7 @@ import Newsletter from '../components/Newsletter';
 // import Product from '../components/Product';
 import Products from '../components/Products';
 import Slider from '../components/Slider';
-
+import Footer from '../components/Footer';
 const Home = () => {
   return (
     <div>
@@ -16,6 +16,7 @@ const Home = () => {
       <Categories />
       <Products />
       <Newsletter />
+      <Footer />
     </div>
   );
 };

@@ -5,7 +5,7 @@ import { Search, ShoppingCartOutlined } from '@mui/icons-material';
 
 const Container = styled.div`
   height: 60px;
-  background-color: #7f8487;
+  background-color: #a2b29f;
 `;
 
 const Wrapper = styled.div`
@@ -32,13 +32,13 @@ const SearchContainer = styled.div`
   align-items: center;
   margin-left: 25px;
   padding: 5px;
-  background-color: #7f8487;
+  background-color: #a2b29f;
   color: black;
 `;
 
 const Input = styled.input`
   border: none;
-  background-color: #7f8487;
+  background-color: #a2b29f;
   color: black;
 `;
 
