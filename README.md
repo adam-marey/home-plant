@@ -44,6 +44,6 @@ Fullstack ecommerce application
 |     :---:     |
 | Adam Marey  |
 | [Github](https://github.com/sulaiman211)  |
-| -  | [LinkedIn](https://www.linkedin.com/in/sulaiman-marey/)  |
+| [LinkedIn](https://www.linkedin.com/in/sulaiman-marey/)  |
 
 
