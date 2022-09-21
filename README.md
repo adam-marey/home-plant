@@ -6,8 +6,9 @@ Fullstack ecommerce application
 
 ---
 # Recourses 
-[squarespace](https://helicon-ferret-scfz.squarespace.com/config/)
-[styled-components](https://styled-components.com/)
+
+ - [squarespace](https://helicon-ferret-scfz.squarespace.com/config/)
+ - [styled-components](https://styled-components.com/)
 --- 
 
 # technologies
