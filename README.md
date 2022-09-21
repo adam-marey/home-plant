@@ -38,3 +38,12 @@ Fullstack ecommerce application
 
 ---
 
+## Meet the developer
+
+![Connor Choi](https://raw.githubusercontent.com/NativeFutbol/README-assets/main/Team_Profiles/Connor_Choi.png)  | ![Adam Marey] |
+|     :---:   |
+| Adam Marey  | 
+| [Github](https://github.com/sulaiman211) |
+| -  | [LinkedIn](https://www.linkedin.com/in/sulaiman-marey/)  | 
+
+
