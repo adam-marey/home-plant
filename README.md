@@ -2,7 +2,9 @@
 
 ---
 
-Fullstack ecommerce application
+Fullstack ecommerce application 
+
+ - [livedemo](https://homeplant.netlify.app/)
 
 ---
 # Recourses 
