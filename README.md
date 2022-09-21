@@ -5,6 +5,9 @@
 Fullstack ecommerce application
 
 ---
+(Inspired by)[https://helicon-ferret-scfz.squarespace.com/config/]
+
+--- 
 
 # technologies
 
