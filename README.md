@@ -38,4 +38,3 @@ Fullstack ecommerce application
 
 ---
 
-In working progress
