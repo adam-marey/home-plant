@@ -4,7 +4,8 @@
 
 Fullstack ecommerce application 
 
- - [live-demo](https://homeplant.netlify.app/) In working progress
+ - [live-demo](https://homeplant.netlify.app/) 
+ - In working progress
 
 ---
 # Recourses 
