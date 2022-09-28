@@ -1,9 +1,9 @@
 // import Home from './pages/Home';
 
-import Signup from './pages/Signup';
+import Cart from './pages/Cart';
 
 function App() {
-  return <Signup />;
+  return <Cart />;
 }
 
 export default App;
