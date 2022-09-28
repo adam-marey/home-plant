@@ -159,7 +159,7 @@ const Cart = () => {
                 <Image src="https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097860310-J0DH20X4OZ15GU0F132J/image.jpg?format=300w" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> JESSIE THUNDER SHOES
+                    <b>Product:</b> Floor Plant
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
@@ -184,7 +184,7 @@ const Cart = () => {
                 <Image src="https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097860317-2IC2WZTLET6GDMDSJYH6/image.jpg?format=300w" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> HAKURA T-SHIRT
+                    <b>Product:</b> Calm Plant
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
